@@ -1,6 +1,6 @@
 # SignLang
 
-Website to help with learning to recite the sign language alphabet backwards backwards
+Website to help learn to recite the sign language alphabet backwards
 
 ## Controls
 
