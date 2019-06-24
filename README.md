@@ -2,7 +2,7 @@
 
 Website to help learn to recite the sign language alphabet backwards
 
-For myself personally, this was a quick excersise in coding vanilla javascript with separation of concerns. 
+Quick excersise in coding vanilla javascript with separation of concerns. 
 
 ## Controls
 
